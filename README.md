@@ -2,7 +2,7 @@
 
 ## 概要
 ロボットシステム学の課題．ROSでパッケージの作成を行った．<br>
-publish.pyは，1[Hz]周期で文字列(Hello World!!)を投げる．
+publish.pyは，1[Hz]周期で文字列(Hello World!!)を投げる．<br>
 subscribe.pyは，Wordという名前のトピックを購読し，ターミナルに表示する．
 
 ## 動作環境
@@ -21,7 +21,7 @@ $ rosrun robosys2020_ros publish.py
 $ rosrun robosys2020_ros subscribe.py
 ```
 ## 動画
-* [Youtube]()
+* [Youtube](https://youtu.be/rTVh7adf7lI)
 
 ## 参考
 * [ロボットシステム学 第10回](https://www.youtube.com/watch?v=PL85Pw_zQH0)
